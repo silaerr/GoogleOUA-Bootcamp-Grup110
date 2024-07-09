@@ -25,7 +25,7 @@ Bu eşsiz kafe simülatörü oyununda, sevimli hayvan dostlarımızın garsonuol
 
 ## Backlog Url
 - Trello kullanıyoruz:
-[Backlog Board] (https://trello.com/invite/b/34ftw9i6/ATTI845e1ede9058be7446d36330a8c0499a73376994/grup-110)
+[Backlog Board](https://trello.com/invite/b/34ftw9i6/ATTI845e1ede9058be7446d36330a8c0499a73376994/grup-110)
 ---
 ## Sprint 1
-![Backlog 1]() 
+![Backlog 1](https://github.com/mustafa-ege/GoogleOUA-Bootcamp-Grup110/blob/main/ProjectManagementDocuments/backlog1.png) 
