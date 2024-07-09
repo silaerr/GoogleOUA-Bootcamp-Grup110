@@ -9,7 +9,7 @@
 Şu anlık daha karar aşamasındayız.
  
 ## Ürün Açıklaması
-Bu eşsiz kafe simülatörü oyununda, sevimli hayvan dostlarımızın garsonuolarak eğlenceli ve macera dolu bir yolculuğa çıkacaksınız. Çiftliğin ortasında yer alan bu büyüleyici kafede, tavuklardan ineklere, kedilerden köpeklere kadar pek çok hayvan ziyaretçiyi ağırlayacaksınız. Hayal gücünüzün sınırlarını zorlayarak kafenizi dekore edin, lezzetli menüler hazırlayın ve her bir misafirin keyifli vakit geçirmesini sağlayın!
+Bu eşsiz kafe simülatörü oyununda, sevimli hayvan dostlarımızın garsonu olarak eğlenceli ve macera dolu bir yolculuğa çıkacaksınız. Çiftliğin ortasında yer alan bu büyüleyici kafede, tavuklardan ineklere, kedilerden köpeklere kadar pek çok hayvan ziyaretçiyi ağırlayacaksınız. Hayal gücünüzün sınırlarını zorlayarak kafenizi dekore edin, lezzetli menüler hazırlayın ve her bir misafirin keyifli vakit geçirmesini sağlayın!
 
 ## Ürün Özellikleri
 - **Büyüleyici 3D Grafikler**: Renkli ve sevimli grafiklerle tasarlanmış hayvanlar ve çiftlik ortamı.
