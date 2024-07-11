@@ -28,4 +28,16 @@ Bu eşsiz kafe simülatörü oyununda, sevimli hayvan dostlarımızın garsonu o
 [Backlog Board](https://trello.com/invite/b/34ftw9i6/ATTI845e1ede9058be7446d36330a8c0499a73376994/grup-110)
 ---
 ## Sprint 1
+Sprint Notları: Oyuna çeşitli güzel fikir arasından karar verildi. Oyun mekaniği üzerinde düşünüldü ve ayrıntılar üzerine gidildi.
+Genel olarak görev atamaları yapıldı, proje yönetim aracı olarak trello tercih edildi. Trelloda yapılması gereken bütün mekanikler ve oyun elemanları backlog ve yapılacaklar kısmına eklendi. 
+Oyuna uygun asset araştırmalarına başlandı. Genel olarak kullanılacak assetler belirlendi. Oyun yapımına tam olarak başlanmadığından kullanılacak assetler kesinleştirilmedi.
+
+Sprint içinde tamamlanması tahmin edilen puan: 80 Puan
+
+Puan tamamlama mantığı: Toplamda proje boyunca tamamlanması gereken 380 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ilk sprint'in en azından 80 ile başlaması gerektiğine karar verildi.
+
+Scrum toplantıları discord üzerinden yapıldı. Ayrıca günlük daha hızlı iletişime geçmek için whatsapp kullanıldı.
+
+![Toplantı ve Konuşma Örnekleri](https://github.com/mustafa-ege/GoogleOUA-Bootcamp-Grup110/blob/main/ProjectManagementDocuments/sprint1.docx)
+
 ![Backlog 1](https://github.com/mustafa-ege/GoogleOUA-Bootcamp-Grup110/blob/main/ProjectManagementDocuments/backlog1.png) 
