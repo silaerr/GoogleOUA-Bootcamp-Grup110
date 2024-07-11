@@ -1,4 +1,4 @@
-[sprint1.docx](https://github.com/user-attachments/files/16182602/sprint1.docx)## Takım Üyeleri
+## Takım Üyeleri
 - Sude Mengen
 - Şerife Oğuz
 - Sıla Er 
