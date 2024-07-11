@@ -1,4 +1,4 @@
-## Takım Üyeleri
+[sprint1.docx](https://github.com/user-attachments/files/16182602/sprint1.docx)## Takım Üyeleri
 - Sude Mengen
 - Şerife Oğuz
 - Sıla Er 
@@ -38,6 +38,7 @@ Puan tamamlama mantığı: Toplamda proje boyunca tamamlanması gereken 380 puan
 
 Scrum toplantıları discord üzerinden yapıldı. Ayrıca günlük daha hızlı iletişime geçmek için whatsapp kullanıldı.
 
-![Toplantı ve Konuşma Örnekleri](https://github.com/mustafa-ege/GoogleOUA-Bootcamp-Grup110/blob/main/ProjectManagementDocuments/sprint1.docx)
+Toplantı ve konuşmalardan örnekler word dosyasında mevcuttur. [Sprint1.docx](https://github.com/user-attachments/files/16182603/sprint1.docx)
 
+Sprint Board Screenshot:
 ![Backlog 1](https://github.com/mustafa-ege/GoogleOUA-Bootcamp-Grup110/blob/main/ProjectManagementDocuments/backlog1.png) 
